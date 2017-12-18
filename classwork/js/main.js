@@ -23,7 +23,7 @@ $(document).ready(function(){
 	$(".list").click(function(){
 		$("ul").append("<li>""</li>");
 	});
-// });
+});
 
 // be sure to work on excercises here http://codifyacademy.com/wk6/
 // you stopped at number 8
